@@ -6,7 +6,8 @@
   - [Contributions](#contribution)
 
 
-  ## Description: Create a professional README file generated froma a series of questions prompted from the terminal. 
+  ## Description: 
+  Create a professional README file generated froma a series of questions prompted from the terminal. 
   
   
   
@@ -22,7 +23,8 @@
   
 
 
-  ## Usage: Open terminal, direct to file, insert node index.js in terminal, answer series of questions to produce README file.
+  ## Usage: 
+  Open terminal, direct to file, insert node index.js in terminal, answer series of questions to produce README file.
 
 
   ## Contributions:
